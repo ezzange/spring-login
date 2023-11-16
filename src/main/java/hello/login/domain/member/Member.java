@@ -11,7 +11,7 @@ public class Member {
     @NotEmpty
     private String loginId; //로그인 ID
     @NotEmpty
-    private String name; //사용자 이
+    private String name; //사용자 이름
     @NotEmpty
     private String password;
 }
